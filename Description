@@ -1,0 +1,46 @@
+# Personal Task Manager
+
+**Project Code:** WST21 - 9:00-10:30AM-2026-MW
+
+**Student Name:** Shane Antonio
+
+**Course & Year:** BSIT-2
+
+**Database Used:** MYSQL
+
+## Features
+
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status
+
+## Screenshot
+
+### Dashboard
+https://shiny-space-fishstick-gxr6qg574j9v3wv54-8000.app.github.dev/tasks
+
+### Add Task
+
+https://shiny-space-fishstick-gxr6qg574j9v3wv54-8000.app.github.dev/tasks/create
+
+### Edit Task
+
+![Edit Task](screenshots/edit-task.png)
+
+### Task List
+
+![Task List](screenshots/tasks.png)
+
+## How It Works
+
+1. Open the Personal Task Manager.
+2. Click **Add Task** to create a new task.
+3. Enter the task name, description, status, and due date.
+4. Click **Save** to add the task.
+5. The task will appear in the task list.
+6. Click **Edit** to update the task information.
+7. Click **Update Task** to save the changes.
+8. Click **Delete** to remove a task.
+9. The task status can be set to **Pending** or **Completed**.
