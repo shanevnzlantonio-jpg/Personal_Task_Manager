@@ -1,58 +1,54 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img width="1869" height="985" alt="4" src="https://github.com/user-attachments/assets/fb4116e2-cbe0-4cbd-981a-5e325dc982a8" /># Personal Task Manager
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Project Code:** WST21 - 9:00-10:30AM-2026-MW
 
-## About Laravel
+**Student Name:** Shane Antonio
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+**Course & Year:** BSIT-2
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**Database Used:** SQlite
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Features
 
-## Learning Laravel
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Screenshot
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Dashboard
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+![Dashboard](screenshots/dashboard.png)<img width="1915" height="921" alt="2" src="https://github.com/user-attachments/assets/95c534cb-24b7-4fad-ad40-e6e3e7c4b969" />
+<img width="1906" height="949" alt="1" src="https://github.com/user-attachments/assets/a80a14e3-4a68-4c7f-b0e6-5513f702c81b" />
 
-## Agentic Development
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+### Add Task
 
-```bash
-composer require laravel/boost --dev
+![Add Task](screenshots/add-task.png)<img width="1915" height="921" alt="2" src="https://github.com/user-attachments/assets/1b2f77b9-db79-4b72-8182-ae1b88ba2f05" />
 
-php artisan boost:install
-```
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
 
-## Contributing
+### Delete Task
+<img width="1883" height="1044" alt="djwb" src="https://github.com/user-attachments/assets/4dd8df55-c654-4e8f-930d-0ba6b08ba422" />
+ 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Edit Task](screenshots/edit-task.png)
 
-## Code of Conduct
+### Task List
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![Task List](screenshots/tasks.png)<img width="1869" height="985" alt="4" src="https://github.com/user-attachments/assets/38ea748f-a131-41ba-b316-bd765151fbf6" />
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## How It Works
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+1. Open the Personal Task Manager.
+2. Click **Add Task** to create a new task.
+3. Enter the task name, description, status, and due date.
+4. Click **Save** to add the task.
+5. The task will appear in the task list.
+6. Click **Edit** to update the task information.
+7. Click **Update Task** to save the changes.
+8. Click **Delete** to remove a task.
+9. The task status can be set to **Pending** or **Completed**.
